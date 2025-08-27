@@ -15,7 +15,7 @@ data- -----------------------------Path to save experimental data
     index.mat---------------------------Pixel indexes needed to calculated detection accuracy
 deep feature of DCVA------------Path to save deep feature from DCVA 
     deepfea1.mat and deepfea2.mat-----------------------Deep features of the bi-temporal images I1 and I2 extracted by DCVA
-(The deepfea1.mat and deepfea2.mat of the ZY3 dataset in the open code can be downloaded from: https://drive.google.com/drive/folders/1sjEnpI1l39g1jX7xYusFiPJPpdAp9S2o?usp=sharing)
+    (The deepfea1.mat and deepfea2.mat of the ZY3 dataset in the open code can be downloaded from: https://drive.google.com/drive/folders/1sjEnpI1l39g1jX7xYusFiPJPpdAp9S2o?usp=sharing)
 result-----------------------------Path to save change detection result
     ACCURACY.txt-----------------Record detection accuracy and runtime
     BCDM.mat---------------------Change detection results（.mat）
